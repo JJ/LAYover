@@ -1,7 +1,7 @@
 # LAYover
 
 LAYover is a Carpoolling-conect OpenSource API. 
-That means, LAYover's aims is to provide an application program interface which let you find travells convinations to made long travells less expensive or to find alternatives to not available journeys.
+That means, LAYover's aim is to provide an application program interface which let you find travells convinations to made long travells less expensive or to find alternatives to not available journeys.
 
 ```
 
